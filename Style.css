@@ -1,0 +1,32 @@
+.Main_head{
+    background-color: orange;
+    box-shadow: 8px 8px 8px red;
+    width: 100%;
+    text-align: center;
+}
+.heading{
+    color: white;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: khaki;
+    box-shadow: 10px 10px 10px violet;
+}
+.Note1{
+    font-size: 14px;
+    font-family: sans-serif;
+    background-color: lightcoral;
+    box-shadow: 10px 10px 10px red;
+}
+.Note2{
+    font-size: 14px;
+    font-family: monospace;
+    background-color: violet;
+    box-shadow: 10px 10px 10px khaki;
+}
+canvas{
+    border: dashed violet;
+    border-width: 20px;
+    border-radius: 20px;
+    width: 350px;
+    height: 350px;
+}
